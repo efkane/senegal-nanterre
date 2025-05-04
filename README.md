@@ -15,7 +15,6 @@ Le site officiel de l'Association des Étudiants Sénégalais de l'Université d
 La galerie présente des photos des événements organisés par l'association. Vous pouvez cliquer sur les images pour les afficher en grand.
 
 ## 🌍 Lien vers Instagram
-Tu veux qu’on ajoute un loader animé au lancement du site ou un bouton retour en haut 
 L'asso est aussi présente sur [Instagram](https://www.instagram.com/senegalais_de_nanterre/).
 
 ## 🚀 Comment démarrer ce projet en local
